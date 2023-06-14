@@ -1,0 +1,33 @@
+C:\Users\KaanAdalilar\Documents\Visual Studio 2022\client\bin\Debug\client.exe.config
+C:\Users\KaanAdalilar\Documents\Visual Studio 2022\client\bin\Debug\client.exe
+C:\Users\KaanAdalilar\Documents\Visual Studio 2022\client\bin\Debug\client.pdb
+C:\Users\KaanAdalilar\Documents\Visual Studio 2022\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\KaanAdalilar\Documents\Visual Studio 2022\client\obj\Debug\client.csproj.SuggestedBindingRedirects.cache
+C:\Users\KaanAdalilar\Documents\Visual Studio 2022\client\obj\Debug\client.Form1.resources
+C:\Users\KaanAdalilar\Documents\Visual Studio 2022\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\KaanAdalilar\Documents\Visual Studio 2022\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\KaanAdalilar\Documents\Visual Studio 2022\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\KaanAdalilar\Documents\Visual Studio 2022\client\obj\Debug\client.exe
+C:\Users\KaanAdalilar\Documents\Visual Studio 2022\client\obj\Debug\client.pdb
+C:\Users\KaanAdalilar\Documents\GitHub\CS408-Project\client\bin\Debug\client.exe.config
+C:\Users\KaanAdalilar\Documents\GitHub\CS408-Project\client\bin\Debug\client.exe
+C:\Users\KaanAdalilar\Documents\GitHub\CS408-Project\client\bin\Debug\client.pdb
+C:\Users\KaanAdalilar\Documents\GitHub\CS408-Project\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\KaanAdalilar\Documents\GitHub\CS408-Project\client\obj\Debug\client.csproj.SuggestedBindingRedirects.cache
+C:\Users\KaanAdalilar\Documents\GitHub\CS408-Project\client\obj\Debug\client.Form1.resources
+C:\Users\KaanAdalilar\Documents\GitHub\CS408-Project\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\KaanAdalilar\Documents\GitHub\CS408-Project\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\KaanAdalilar\Documents\GitHub\CS408-Project\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\KaanAdalilar\Documents\GitHub\CS408-Project\client\obj\Debug\client.exe
+C:\Users\KaanAdalilar\Documents\GitHub\CS408-Project\client\obj\Debug\client.pdb
+C:\Users\KaanAdalilar\Downloads\kaanadalilar_Adalilar_Kaan_Step2\client\bin\Debug\client.exe.config
+C:\Users\KaanAdalilar\Downloads\kaanadalilar_Adalilar_Kaan_Step2\client\bin\Debug\client.exe
+C:\Users\KaanAdalilar\Downloads\kaanadalilar_Adalilar_Kaan_Step2\client\bin\Debug\client.pdb
+C:\Users\KaanAdalilar\Downloads\kaanadalilar_Adalilar_Kaan_Step2\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\KaanAdalilar\Downloads\kaanadalilar_Adalilar_Kaan_Step2\client\obj\Debug\client.csproj.SuggestedBindingRedirects.cache
+C:\Users\KaanAdalilar\Downloads\kaanadalilar_Adalilar_Kaan_Step2\client\obj\Debug\client.Form1.resources
+C:\Users\KaanAdalilar\Downloads\kaanadalilar_Adalilar_Kaan_Step2\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\KaanAdalilar\Downloads\kaanadalilar_Adalilar_Kaan_Step2\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\KaanAdalilar\Downloads\kaanadalilar_Adalilar_Kaan_Step2\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\KaanAdalilar\Downloads\kaanadalilar_Adalilar_Kaan_Step2\client\obj\Debug\client.exe
+C:\Users\KaanAdalilar\Downloads\kaanadalilar_Adalilar_Kaan_Step2\client\obj\Debug\client.pdb
