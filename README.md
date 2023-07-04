@@ -6,4 +6,4 @@ The server, developed using C# and .NET, listens on a specific port for incoming
 
 Notable game features include ongoing match observation, automatic player replacement, and comprehensive error handling for informative player feedback. The server also tracks game statistics such as games played, wins, losses, and draws, fostering a competitive environment.
 
-![IMG_A2BC051D67C9-1](https://github.com/zeynepturkmen/Networked-Tic-Tac-Toe-Game/assets/75041108/846e2f18-061c-44e7-a7d0-a6a8f0b1f9c9)
+![client:server](https://github.com/zeynepturkmen/Networked-Tic-Tac-Toe-Game/assets/75041108/74fb6136-aa4e-41fb-ae69-f3cb659d0d41)
