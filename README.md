@@ -1,3 +1,7 @@
-# Networked-Tic-Tac-Toe-Game!
-![ClientSide](https://github.com/zeynepturkmen/Networked-Tic-Tac-Toe-Game/assets/106749281/63b8b820-9139-4f2b-9049-9b2c99b4d7d2)
-![ServerSide](https://github.com/zeynepturkmen/Networked-Tic-Tac-Toe-Game/assets/106749281/b0b14796-46e2-4ab7-85c0-54bf880866ab)
+<h1 align="center">Networked Tic-Tac-Toe Game</h1>
+
+This project implements an open Tic-Tac-Toe game with a server-client architecture. Players can connect to a central server for multiplayer matches, benefiting from the server's connection management, score tracking, and broadcasts.
+
+The server, developed using C# and .NET, listens on a specific port for incoming client connections. It supports up to four players simultaneously, ensuring fair gameplay and a smooth user experience. Duplicate names are prevented to maintain fairness.
+
+Notable game features include ongoing match observation, automatic player replacement, and comprehensive error handling for informative player feedback. The server also tracks game statistics such as games played, wins, losses, and draws, fostering a competitive environment.
